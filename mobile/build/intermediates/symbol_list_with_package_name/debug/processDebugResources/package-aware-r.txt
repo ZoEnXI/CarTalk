@@ -2100,6 +2100,7 @@ color secondary_text_default_material_dark
 color secondary_text_default_material_light
 color secondary_text_disabled_material_dark
 color secondary_text_disabled_material_light
+color sound_background
 color switch_thumb_disabled_material_dark
 color switch_thumb_disabled_material_light
 color switch_thumb_material_dark
@@ -3100,6 +3101,8 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable scrollbar
+drawable sound_symbol
 drawable test_level_drawable
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
@@ -3211,7 +3214,17 @@ id callMeasure
 id cancel_action
 id cancel_button
 id carModel
+id carModel14
+id carModel15
+id carModel2
+id carModel4
+id carModel7
 id carSymbol
+id carSymbol14
+id carSymbol15
+id carSymbol2
+id carSymbol4
+id carSymbol5
 id carryVelocity
 id center
 id centerCrop
@@ -3333,6 +3346,8 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id imageView
+id imageView2
 id immediateStop
 id included
 id indeterminate
@@ -3502,6 +3517,7 @@ id search_mag_icon
 id search_plate
 id search_src_text
 id search_voice_btn
+id seekBar
 id select_dialog_listview
 id selected
 id selection_type
@@ -3544,6 +3560,9 @@ id stretch
 id submenuarrow
 id submit_area
 id supportScrollUp
+id switch1
+id switch2
+id switch3
 id tabMode
 id tag_accessibility_actions
 id tag_accessibility_clickable_spans
@@ -3819,8 +3838,12 @@ layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
+mipmap car_symbol
 mipmap ic_launcher
 mipmap ic_launcher_round
+mipmap sound
+mipmap sound_foreground
+mipmap sound_round
 mipmap test
 mipmap test_foreground
 mipmap test_round

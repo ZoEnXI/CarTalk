@@ -20,6 +20,7 @@
     </array>
     <color name="black">#FF000000</color>
     <color name="r">#FFFFFF</color>
+    <color name="sound_background">#FFFFFF</color>
     <color name="white">#FFFFFFFF</color>
     <string name="app_name">My Application</string>
     <style name="Base.Theme.MyApplication" parent="Theme.Material3.DayNight.NoActionBar">

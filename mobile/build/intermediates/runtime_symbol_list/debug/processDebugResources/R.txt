@@ -2099,6 +2099,7 @@ int color secondary_text_default_material_dark 0x7f0502fb
 int color secondary_text_default_material_light 0x7f0502fc
 int color secondary_text_disabled_material_dark 0x7f0502fd
 int color secondary_text_disabled_material_light 0x7f0502fe
+int color sound_background 0x7f050309
 int color switch_thumb_disabled_material_dark 0x7f0502ff
 int color switch_thumb_disabled_material_light 0x7f050300
 int color switch_thumb_material_dark 0x7f050301
@@ -3099,6 +3100,8 @@ int drawable notification_template_icon_bg 0x7f0700e0
 int drawable notification_template_icon_low_bg 0x7f0700e1
 int drawable notification_tile_bg 0x7f0700e2
 int drawable notify_panel_notification_icon_bg 0x7f0700e3
+int drawable scrollbar 0x7f0700ea
+int drawable sound_symbol 0x7f0700e9
 int drawable test_level_drawable 0x7f0700e4
 int drawable tooltip_frame_dark 0x7f0700e5
 int drawable tooltip_frame_light 0x7f0700e6
@@ -3210,7 +3213,17 @@ int id callMeasure 0x7f080065
 int id cancel_action 0x7f080066
 int id cancel_button 0x7f080067
 int id carModel 0x7f0801fb
+int id carModel14 0x7f080204
+int id carModel15 0x7f080205
+int id carModel2 0x7f080206
+int id carModel4 0x7f080207
+int id carModel7 0x7f080208
 int id carSymbol 0x7f0801fc
+int id carSymbol14 0x7f080209
+int id carSymbol15 0x7f08020a
+int id carSymbol2 0x7f08020b
+int id carSymbol4 0x7f08020c
+int id carSymbol5 0x7f08020d
 int id carryVelocity 0x7f080068
 int id center 0x7f080069
 int id centerCrop 0x7f08006a
@@ -3332,6 +3345,8 @@ int id ifRoom 0x7f0800dc
 int id ignore 0x7f0800dd
 int id ignoreRequest 0x7f0800de
 int id image 0x7f0800df
+int id imageView 0x7f080203
+int id imageView2 0x7f08020e
 int id immediateStop 0x7f0800e0
 int id included 0x7f0800e1
 int id indeterminate 0x7f0800e2
@@ -3501,6 +3516,7 @@ int id search_mag_icon 0x7f080185
 int id search_plate 0x7f080186
 int id search_src_text 0x7f080187
 int id search_voice_btn 0x7f080188
+int id seekBar 0x7f0801ff
 int id select_dialog_listview 0x7f080189
 int id selected 0x7f08018a
 int id selection_type 0x7f08018b
@@ -3543,6 +3559,9 @@ int id stretch 0x7f0801af
 int id submenuarrow 0x7f0801b0
 int id submit_area 0x7f0801b1
 int id supportScrollUp 0x7f0801b2
+int id switch1 0x7f080200
+int id switch2 0x7f080201
+int id switch3 0x7f080202
 int id tabMode 0x7f0801b3
 int id tag_accessibility_actions 0x7f0801b4
 int id tag_accessibility_clickable_spans 0x7f0801b5
@@ -3818,8 +3837,12 @@ int layout select_dialog_item_material 0x7f0b0071
 int layout select_dialog_multichoice_material 0x7f0b0072
 int layout select_dialog_singlechoice_material 0x7f0b0073
 int layout support_simple_spinner_dropdown_item 0x7f0b0074
+int mipmap car_symbol 0x7f0d0002
 int mipmap ic_launcher 0x7f0d0000
 int mipmap ic_launcher_round 0x7f0d0001
+int mipmap sound 0x7f0d0006
+int mipmap sound_foreground 0x7f0d0007
+int mipmap sound_round 0x7f0d0008
 int mipmap test 0x7f0d0003
 int mipmap test_foreground 0x7f0d0004
 int mipmap test_round 0x7f0d0005

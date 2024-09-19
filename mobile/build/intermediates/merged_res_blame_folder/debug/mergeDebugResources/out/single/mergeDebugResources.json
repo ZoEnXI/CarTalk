@@ -1,51 +1,143 @@
 [
     {
-        "merged": "lavaud.trelaze.myapplication.mobile-debug-32:/mipmap-xhdpi_test_foreground.webp.flat",
-        "source": "lavaud.trelaze.myapplication.mobile-main-34:/mipmap-xhdpi/test_foreground.webp"
-    },
-    {
         "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\xml_data_extraction_rules.xml.flat",
         "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "lavaud.trelaze.myapplication.mobile-debug-32:/mipmap-hdpi_test_foreground.webp.flat",
-        "source": "lavaud.trelaze.myapplication.mobile-main-34:/mipmap-hdpi/test_foreground.webp"
-    },
-    {
-        "merged": "lavaud.trelaze.myapplication.mobile-debug-32:/mipmap-xxhdpi_test_round.webp.flat",
-        "source": "lavaud.trelaze.myapplication.mobile-main-34:/mipmap-xxhdpi/test_round.webp"
-    },
-    {
-        "merged": "lavaud.trelaze.myapplication.mobile-debug-32:/mipmap-mdpi_test.webp.flat",
-        "source": "lavaud.trelaze.myapplication.mobile-main-34:/mipmap-mdpi/test.webp"
+        "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\mipmap-anydpi-v26_test_round.xml.flat",
+        "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\mipmap-anydpi-v26\\test_round.xml"
     },
     {
         "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\font_poppins_thin.xml.flat",
-        "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\font\\poppins_thin.xml"
-    },
-    {
         "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\drawable_car_symbol.png.flat",
         "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\drawable\\car_symbol.png"
     },
     {
+        "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\mipmap-hdpi_test_round.webp.flat",
+        "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\mipmap-hdpi\\test_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\mipmap-xxhdpi_test_round.webp.flat",
+        "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\mipmap-xxhdpi\\test_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\mipmap-xxxhdpi_sound_round.webp.flat",
+        "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\mipmap-xxxhdpi\\sound_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\mipmap-mdpi_sound.webp.flat",
+        "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\mipmap-mdpi\\sound.webp"
+    },
+    {
+        "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\mipmap-xhdpi_test_foreground.webp.flat",
+        "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\mipmap-xhdpi\\test_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\mipmap-xhdpi_sound_round.webp.flat",
+        "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\mipmap-xhdpi\\sound_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\mipmap-hdpi_sound_round.webp.flat",
+        "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\mipmap-hdpi\\sound_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\mipmap-anydpi-v26_sound_round.xml.flat",
+        "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\mipmap-anydpi-v26\\sound_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\mipmap-xxhdpi_sound.webp.flat",
+        "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\mipmap-xxhdpi\\sound.webp"
+    },
+    {
+        "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\mipmap-hdpi_test_foreground.webp.flat",
+        "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\mipmap-hdpi\\test_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\mipmap-xxxhdpi_sound.webp.flat",
+        "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\mipmap-xxxhdpi\\sound.webp"
+    },
+    {
+        "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\mipmap-anydpi-v26_sound.xml.flat",
+        "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\mipmap-anydpi-v26\\sound.xml"
+    },
+    {
+        "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\drawable_car_symbol.webp.flat",
+        "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\drawable\\car_symbol.webp"
+    },
+    {
+        "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\mipmap-mdpi_test.webp.flat",
+        "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\mipmap-mdpi\\test.webp"
+    },
+    {
+        "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\mipmap-xxxhdpi_test.webp.flat",
+        "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\mipmap-xxxhdpi\\test.webp"
+    },
+    {
+        "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\mipmap-hdpi_sound.webp.flat",
+        "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\mipmap-hdpi\\sound.webp"
+    },
+    {
+        "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\mipmap-xxxhdpi_test_round.webp.flat",
+        "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\mipmap-xxxhdpi\\test_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\mipmap-hdpi_test.webp.flat",
+        "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\mipmap-hdpi\\test.webp"
+    },
+    {
+        "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\mipmap-xhdpi_sound.webp.flat",
+        "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\mipmap-xhdpi\\sound.webp"
+    },
+    {
+        "merged": "lavaud.trelaze.myapplication.mobile-debug-32:/drawable_scrollbar.png.flat",
+        "source": "lavaud.trelaze.myapplication.mobile-main-34:/drawable/scrollbar.png"
+    },
+    {
+        "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\mipmap-mdpi_test_foreground.webp.flat",
+        "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\mipmap-mdpi\\test_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\mipmap-hdpi_car_symbol.png.flat",
+        "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\mipmap-hdpi\\car_symbol.png"
+    },
+    {
+        "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\mipmap-mdpi_sound_round.webp.flat",
+        "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\mipmap-mdpi\\sound_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\mipmap-hdpi_sound_foreground.webp.flat",
+        "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\mipmap-hdpi\\sound_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\mipmap-xhdpi_test.webp.flat",
+        "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\mipmap-xhdpi\\test.webp"
+    },
+    {
+        "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\mipmap-xhdpi_sound_foreground.webp.flat",
+        "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\mipmap-xhdpi\\sound_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\font_poppins_thin.xml.flat",
+        "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\font\\poppins_thin.xml"
+    },
+    {
         "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\mipmap-hdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\mipmap-hdpi\\ic_launcher.webp"
-    },
-    {
-        "merged": "lavaud.trelaze.myapplication.mobile-debug-32:/mipmap-anydpi-v26_test.xml.flat",
-        "source": "lavaud.trelaze.myapplication.mobile-main-34:/mipmap-anydpi-v26/test.xml"
-    },
-    {
-        "merged": "lavaud.trelaze.myapplication.mobile-debug-32:/mipmap-mdpi_test_foreground.webp.flat",
-        "source": "lavaud.trelaze.myapplication.mobile-main-34:/mipmap-mdpi/test_foreground.webp"
-    },
-    {
-        "merged": "lavaud.trelaze.myapplication.mobile-debug-32:/mipmap-xxxhdpi_test_foreground.webp.flat",
-        "source": "lavaud.trelaze.myapplication.mobile-main-34:/mipmap-xxxhdpi/test_foreground.webp"
     },
     {
         "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\layout_activity_main.xml.flat",
@@ -56,48 +148,44 @@
         "source": "lavaud.trelaze.myapplication.mobile-main-34:/layout/activity_main.xml"
     },
     {
-        "merged": "lavaud.trelaze.myapplication.mobile-debug-32:/mipmap-xhdpi_test.webp.flat",
-        "source": "lavaud.trelaze.myapplication.mobile-main-34:/mipmap-xhdpi/test.webp"
-    },
-    {
-        "merged": "lavaud.trelaze.myapplication.mobile-debug-32:/mipmap-mdpi_test_round.webp.flat",
-        "source": "lavaud.trelaze.myapplication.mobile-main-34:/mipmap-mdpi/test_round.webp"
-    },
-    {
         "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\mipmap-anydpi_ic_launcher.xml.flat",
         "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\mipmap-anydpi\\ic_launcher.xml"
     },
     {
-        "merged": "lavaud.trelaze.myapplication.mobile-debug-32:/mipmap-anydpi-v26_test_round.xml.flat",
-        "source": "lavaud.trelaze.myapplication.mobile-main-34:/mipmap-anydpi-v26/test_round.xml"
+        "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\mipmap-xxhdpi_sound_round.webp.flat",
+        "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\mipmap-xxhdpi\\sound_round.webp"
     },
     {
-        "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\mipmap-xxhdpi_sound_foreground.webp.flat",
+        "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\mipmap-xxhdpi\\sound_foreground.webp"
     },
     {
-        "merged": "lavaud.trelaze.myapplication.mobile-debug-32:/mipmap-xhdpi_test_round.webp.flat",
-        "source": "lavaud.trelaze.myapplication.mobile-main-34:/mipmap-xhdpi/test_round.webp"
+        "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\mipmap-mdpi_sound_foreground.webp.flat",
+        "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\mipmap-mdpi\\sound_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\mipmap-xxxhdpi_sound_foreground.webp.flat",
+        "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\mipmap-xxxhdpi\\sound_foreground.webp"
     },
     {
         "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\mipmap-mdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\mipmap-mdpi\\ic_launcher.webp"
-    },
-    {
-        "merged": "lavaud.trelaze.myapplication.mobile-debug-32:/mipmap-xxxhdpi_test_round.webp.flat",
-        "source": "lavaud.trelaze.myapplication.mobile-main-34:/mipmap-xxxhdpi/test_round.webp"
-    },
-    {
         "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\mipmap-xhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\drawable_car_symbol.webp.flat",
-        "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\drawable\\car_symbol.webp"
+        "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\drawable_sound_symbol.png.flat",
+        "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\drawable\\sound_symbol.png"
+    },
+    {
+        "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\mipmap-mdpi_test_round.webp.flat",
+        "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\mipmap-mdpi\\test_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\mipmap-xxxhdpi_test_foreground.webp.flat",
+        "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\mipmap-xxxhdpi\\test_foreground.webp"
     },
     {
         "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
@@ -108,24 +196,28 @@
         "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\mipmap-anydpi\\ic_launcher_round.xml"
     },
     {
+        "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\mipmap-xhdpi_test_round.webp.flat",
+        "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\mipmap-xhdpi\\test_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\mipmap-xxhdpi_test.webp.flat",
+        "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\mipmap-xxhdpi\\test.webp"
+    },
+    {
+        "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\mipmap-anydpi-v26_test.xml.flat",
+        "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\mipmap-anydpi-v26\\test.xml"
+    },
+    {
+        "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\mipmap-xxhdpi_test_foreground.webp.flat",
+        "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\mipmap-xxhdpi\\test_foreground.webp"
+    },
+    {
         "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\drawable_ic_launcher_background.xml.flat",
         "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "lavaud.trelaze.myapplication.mobile-debug-32:/mipmap-xxhdpi_test_foreground.webp.flat",
-        "source": "lavaud.trelaze.myapplication.mobile-main-34:/mipmap-xxhdpi/test_foreground.webp"
-    },
-    {
         "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\xml_backup_rules.xml.flat",
         "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\xml\\backup_rules.xml"
-    },
-    {
-        "merged": "lavaud.trelaze.myapplication.mobile-debug-32:/mipmap-xxxhdpi_test.webp.flat",
-        "source": "lavaud.trelaze.myapplication.mobile-main-34:/mipmap-xxxhdpi/test.webp"
-    },
-    {
-        "merged": "lavaud.trelaze.myapplication.mobile-debug-32:/mipmap-hdpi_test.webp.flat",
-        "source": "lavaud.trelaze.myapplication.mobile-main-34:/mipmap-hdpi/test.webp"
     },
     {
         "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\mipmap-xxhdpi_ic_launcher.webp.flat",
@@ -142,21 +234,5 @@
     {
         "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\mipmap-xxhdpi\\ic_launcher_round.webp"
-    },
-    {
-        "merged": "lavaud.trelaze.myapplication.mobile-debug-32:/mipmap-xxhdpi_test.webp.flat",
-        "source": "lavaud.trelaze.myapplication.mobile-main-34:/mipmap-xxhdpi/test.webp"
-    },
-    {
-        "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\drawable_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\drawable\\ic_launcher_foreground.xml"
-    },
-    {
-        "merged": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-debug-32:\\mipmap-hdpi_car_symbol.png.flat",
-        "source": "C:\\Users\\lavau\\.gradle\\daemon\\8.7\\lavaud.trelaze.myapplication.mobile-main-34:\\mipmap-hdpi\\car_symbol.png"
-    },
-    {
-        "merged": "lavaud.trelaze.myapplication.mobile-debug-32:/mipmap-hdpi_test_round.webp.flat",
-        "source": "lavaud.trelaze.myapplication.mobile-main-34:/mipmap-hdpi/test_round.webp"
     }
 ]
