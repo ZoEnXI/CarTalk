@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "lavaud.trelaze.myapplication.automotive-mergeDebugResources-22:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\lavau\\.gradle\\caches\\transforms-4\\f34dca089ba9dc7698dd866567bcf9f4\\transformed\\appcompat-1.7.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    }
+                }
+            ]
+        }
+    ]
+}

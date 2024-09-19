@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/My_Application.iml" filepath="$PROJECT_DIR$/.idea/modules/My_Application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/automotive/My_Application.automotive.iml" filepath="$PROJECT_DIR$/.idea/modules/automotive/My_Application.automotive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/automotive/My_Application.automotive.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/automotive/My_Application.automotive.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/automotive/My_Application.automotive.main.iml" filepath="$PROJECT_DIR$/.idea/modules/automotive/My_Application.automotive.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/automotive/My_Application.automotive.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/automotive/My_Application.automotive.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mobile/My_Application.mobile.iml" filepath="$PROJECT_DIR$/.idea/modules/mobile/My_Application.mobile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mobile/My_Application.mobile.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/mobile/My_Application.mobile.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mobile/My_Application.mobile.main.iml" filepath="$PROJECT_DIR$/.idea/modules/mobile/My_Application.mobile.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mobile/My_Application.mobile.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/mobile/My_Application.mobile.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/My_Application.shared.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/My_Application.shared.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/My_Application.shared.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/My_Application.shared.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/My_Application.shared.main.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/My_Application.shared.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/My_Application.shared.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/My_Application.shared.unitTest.iml" />
+    </modules>
+  </component>
+</project>

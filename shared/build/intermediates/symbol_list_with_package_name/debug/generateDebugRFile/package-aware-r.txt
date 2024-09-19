@@ -1,0 +1,2 @@
+lavaud.trelaze.myapplication.shared
+xml automotive_app_desc
