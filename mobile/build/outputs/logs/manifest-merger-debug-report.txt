@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\lavau\Desktop\mobile\MyApplication\mobile\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\lavau\Desktop\mobile\MyApplication\mobile\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\lavau\Desktop\mobile\MyApplication\mobile\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\lavau\Desktop\mobile\MyApplication\mobile\src\main\AndroidManifest.xml:2:1-26:12
+ADDED from C:\Users\lavau\Desktop\mobile\MyApplication\mobile\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\lavau\Desktop\mobile\MyApplication\mobile\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\lavau\Desktop\mobile\MyApplication\mobile\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\lavau\Desktop\mobile\MyApplication\mobile\src\main\AndroidManifest.xml:2:1-29:12
 MERGED from [:shared] C:\Users\lavau\Desktop\mobile\MyApplication\shared\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:2:1-26:12
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\lavau\.gradle\caches\transforms-4\dd941313004566c093442555815215b1\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\lavau\.gradle\caches\transforms-4\3d273af13284a9d2a70f79ede968bf36\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
@@ -58,8 +58,8 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\lavau\.gradle\caches\transform
 	xmlns:android
 		ADDED from C:\Users\lavau\Desktop\mobile\MyApplication\mobile\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\lavau\Desktop\mobile\MyApplication\mobile\src\main\AndroidManifest.xml:5:5-24:19
-INJECTED from C:\Users\lavau\Desktop\mobile\MyApplication\mobile\src\main\AndroidManifest.xml:5:5-24:19
+ADDED from C:\Users\lavau\Desktop\mobile\MyApplication\mobile\src\main\AndroidManifest.xml:5:5-27:19
+INJECTED from C:\Users\lavau\Desktop\mobile\MyApplication\mobile\src\main\AndroidManifest.xml:5:5-27:19
 MERGED from [:shared] C:\Users\lavau\Desktop\mobile\MyApplication\shared\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:7:5-24:19
 MERGED from [:shared] C:\Users\lavau\Desktop\mobile\MyApplication\shared\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:7:5-24:19
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\lavau\.gradle\caches\transforms-4\dd941313004566c093442555815215b1\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
@@ -118,6 +118,12 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\Users\lavau\Desktop\mobile\MyApplication\mobile\src\main\AndroidManifest.xml:21:17-77
 	android:name
 		ADDED from C:\Users\lavau\Desktop\mobile\MyApplication\mobile\src\main\AndroidManifest.xml:21:27-74
+meta-data#preloaded_fonts
+ADDED from C:\Users\lavau\Desktop\mobile\MyApplication\mobile\src\main\AndroidManifest.xml:24:9-26:57
+	android:resource
+		ADDED from C:\Users\lavau\Desktop\mobile\MyApplication\mobile\src\main\AndroidManifest.xml:26:13-54
+	android:name
+		ADDED from C:\Users\lavau\Desktop\mobile\MyApplication\mobile\src\main\AndroidManifest.xml:25:13-43
 uses-sdk
 INJECTED from C:\Users\lavau\Desktop\mobile\MyApplication\mobile\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\lavau\Desktop\mobile\MyApplication\mobile\src\main\AndroidManifest.xml

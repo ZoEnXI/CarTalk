@@ -8,12 +8,52 @@
     tools:context=".MainActivity">
 
     <TextView
+        android:id="@+id/connectionStatus"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
-        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginTop="52dp"
+        android:fontFamily="@font/poppins_medium"
+        android:text="Statut de la connexion"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:textColor="#335acf"
+        android:textSize="45sp"
+        android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.064"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+    <TextView
+        android:id="@+id/carModel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="68dp"
+        android:layout_marginTop="36dp"
+        android:fontFamily="@font/poppins_medium"
+        android:text="carModel"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textSize="30sp"
+        app:layout_constraintStart_toEndOf="@+id/carSymbol"
+        app:layout_constraintTop_toBottomOf="@+id/connectionStatus" />
+
+    <ImageView
+        android:id="@+id/carSymbol"
+        android:layout_width="77dp"
+        android:layout_height="83dp"
+        android:layout_marginStart="64dp"
+        android:layout_marginBottom="528dp"
+        android:src="@drawable/car_symbol"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/connectionStatus"
+        app:layout_constraintVertical_bias="0.327" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="249dp"
+        android:layout_height="85dp"
+        android:layout_marginBottom="76dp"
+        android:text="Deconnexion"
+        app:layout_constraintBottom_toBottomOf="parent"
+        tools:layout_editor_absoluteX="160dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>

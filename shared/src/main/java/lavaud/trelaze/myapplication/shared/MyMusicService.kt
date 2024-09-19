@@ -93,6 +93,7 @@ class MyMusicService : MediaBrowserServiceCompat() {
     }
 
     override fun onDestroy() {
+        super.onDestroy()
         session.release()
     }
 
